@@ -76,7 +76,7 @@ pkg update && pkg upgrade
 pkg install python git
 
 # 2. Clone Repository
-git clone https://github.com/USERNAME/momon-ai.git
+git clone https://github.com/Pwvs/momon-ai
 cd momon-ai
 
 # 3. Install Dependencies
